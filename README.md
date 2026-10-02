@@ -27,3 +27,8 @@ node scripts/build-pages.mjs
 - 奶蛙像素动画：[Maple498/nai-wa-codex-pet](https://github.com/Maple498/nai-wa-codex-pet)，CC BY 4.0；使用裁帧、缩放与下蹲变形，完整授权位于 assets/NAIWA-LICENSE.md。
 - [Kenney Pixel Platformer](https://kenney.nl/assets/pixel-platformer)、[Digital Audio](https://kenney.nl/assets/digital-audio)，CC0，附授权文本。
 - 奶蛙为网络迷因二创，非官方游戏；动画授权不代表授予原型角色的一切权利。
+
+## 在线游玩
+
+[打开奶蛙快跑](https://menglvxinianhua.github.io/naiwa-run/)
+
